@@ -7,6 +7,6 @@ buttonCheck.addEventListener("click", ()=>{
         result.innerHTML += " Please insert valid e-mail address."
     }
 
-    else if(eMail.value[-3] == "." || eMail)
+    else if(eMail.value[-3] == "." || eMail);
 
-})
+});
